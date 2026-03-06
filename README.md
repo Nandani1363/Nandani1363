@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Nandani1363/Nandani1363/blob/main/github%20banner%20new.png)
 # 💫 About Me:
 * 🔭 I’m currently working on **Live Web Development Projects using React, Node.js, and TypeScript**<br>* 👯 I’m looking to collaborate on **Modern Web Applications and Open-Source Projects**<br>* 🤝 I’m looking for help with **Advanced Backend Architecture and DevOps**<br>* 🌱 I’m currently learning **TypeScript, Next.js, and Scalable Backend Development**<br>* 💬 Ask me about **JavaScript, TypeScript, React, APIs, and Full-Stack Development**<br>* ⚡ Fun fact: **I enjoy building real-world projects and turning ideas into working web apps**<br>
 
